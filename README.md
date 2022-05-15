@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Daniel M. Corazza</h1>
 <h3 align="center">¡Un apasionado desarrollador frontend de Argentina!</h3>
 
-- Actualmente estoy estudiando en la academia * *@soyHenry**
+- Actualmente estoy estudiando en la academia * *@soyHenry!**
 
 - 📫 Cómo contactarme **danielcaz@gmail.com**
 
